@@ -138,7 +138,7 @@ Usually you can set the value in an array using the following:
 ```c#
 short[] some= new short[17];
 some[1] = 12;
-returnsome;
+return some;
 ```
 
 #### C# enumeration
